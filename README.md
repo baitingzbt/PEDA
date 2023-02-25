@@ -1,5 +1,5 @@
 # PEDA
-Offcial Repo for [Pareto-Efficient Decision Agents for Offline Multi-Objective Reinforcement Learning](https://openreview.net/forum?id=Ki4ocDm364). Published in ICLR 2023.
+Official Repo for [Pareto-Efficient Decision Agents for Offline Multi-Objective Reinforcement Learning](https://openreview.net/forum?id=Ki4ocDm364). Published in ICLR 2023.
 
 Website: [COMING SOON]().
 
