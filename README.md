@@ -16,7 +16,7 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
 Due to large storage space, not all variations are stored in this link. However, they contain all variations used in the paper experiments including ablation study.
 ```
 pip install gdown
-gdown --folder COMING_SOON --output data
+gdown --folder https://drive.google.com/drive/folders/1wfd6BwAu-hNLC9uvsI1WPEOmPpLQVT9k?usp=sharing --output data
 ```
 The "data" folder should be under "PEDA", with all dataset stored.
 ## Training
