@@ -7,9 +7,10 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
 
 ## Setup
   ```
+  git clone https://github.com/baitingzbt/PEDA.git
+  cd PEDA
   conda env create -f environment.yml
   conda activate peda_env
-  cd PEDA
   ```
 ## Data Download
 Due to large storage space, not all variations are stored in this link. However, they contain all variations used in the paper experiments including ablation study.
