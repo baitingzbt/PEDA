@@ -312,4 +312,4 @@ dependencies:
     - wandb==0.13.2
     - werkzeug==2.2.2
     - yarl==1.8.1
-prefix: /home/baitingzbt/miniconda3/envs/clean_modt
+prefix: /home/baitingzbt/miniconda3/envs/peda_env
