@@ -5,13 +5,24 @@ Website: [COMING SOON]().
 
 Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.cs.ucla.edu/~mhdang/), [Aditya Grover](https://aditya-grover.github.io/)
 
-
+## Setup
+  ```
+  conda env create -f environment.yml
+  conda activate peda_env
+  ```
 ## Data Download
-
+```
+pip install gdown
+gdown --folder COMING_SOON --output data
+mv data PEDA
+cd PEDA
+```
+The "data" folder should be under "PEDA", with all dataset stored.
 ## Training
 Open the shell script below to double-check your CUDA devices and data path. Then run:
-> sh all_env_uniform.sh
-
+```
+sh all_env_uniform.sh
+```
 ## Citation
 If you use this repo, please cite:
 ```
