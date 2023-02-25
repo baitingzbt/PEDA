@@ -2,7 +2,7 @@ DIR="experiment_runs/uniform"
 
 for TYPE in normal naive
 do
-    for MODEL in bc # dt rvs
+    for MODEL in bc dt rvs
     do
         for ENV in MO-Hopper-v2 MO-Swimmer-v2 MO-Ant-v2 MO-HalfCheetah-v2 MO-Walker2d-v2 MO-Hopper-v3
         do
