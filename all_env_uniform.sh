@@ -1,4 +1,4 @@
-DIR="camera_ready_scripts/uniform"
+DIR="experiment_runs/uniform"
 
 for TYPE in normal naive
 do
