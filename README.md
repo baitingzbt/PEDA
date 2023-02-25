@@ -11,6 +11,7 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
   conda activate peda_env
   ```
 ## Data Download
+Due to large storage space, not all variations are stored in this link. However, they contain all variations used in the paper experiments including ablation study.
 ```
 pip install gdown
 gdown --folder COMING_SOON --output data
