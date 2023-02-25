@@ -112,7 +112,7 @@ def experiment(
         scale *= 10
     
     # if using multiple dataset, load all at once
-    dataset_paths = [f"processed{args.data_mode}/{env_name}/{env_name}_300_{d}.pkl" for d in dataset]
+    dataset_paths = [f"data/{env_name}/{env_name}_50000_{d}.pkl" for d in dataset]
     trajectories = []
     for data_path in dataset_paths:
         with open(data_path, 'rb') as f:
