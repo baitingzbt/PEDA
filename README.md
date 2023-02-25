@@ -23,6 +23,10 @@ Open the shell script below to double-check your CUDA devices and data path. The
 ```
 sh all_env_uniform.sh
 ```
+Alternatively, here is an example for a single experiment:
+```
+python experiment.py --dir experiment_runs/uniform --env MO-HalfCheetah-v2 --data_mode _formal --concat_state_pref 1 --concat_rtg_pref 0 --concat_act_pref 0 --mo_rtg True --seed 1 --dataset expert_uniform --model_type rvs --num_steps_per_iter 200000 --max_iters 2
+```
 ## Citation
 If you use this repo, please cite:
 ```
