@@ -145,7 +145,6 @@ dependencies:
   - pcre=8.45=h9c3ff4c_0
   - pexpect=4.8.0=pyh9f0ad1d_2
   - pickleshare=0.7.5=py_1003
-  - pip=22.2.2=pyhd8ed1ab_0
   - pixman=0.40.0=h36c2ea0_0
   - portaudio=19.6.0=h57a0ea0_5
   - prompt-toolkit=3.0.30=pyha770c72_0
@@ -264,6 +263,7 @@ dependencies:
     - pandas==1.4.3
     - pathtools==0.1.2
     - pillow==8.2.0
+    - pip==22.3
     - promise==2.3
     - protobuf==3.19.4
     - pyasn1==0.4.8
@@ -312,4 +312,3 @@ dependencies:
     - wandb==0.13.2
     - werkzeug==2.2.2
     - yarl==1.8.1
-prefix: /home/baitingzbt/miniconda3/envs/peda_env
