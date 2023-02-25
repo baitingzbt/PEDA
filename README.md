@@ -9,14 +9,13 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
   ```
   conda env create -f environment.yml
   conda activate peda_env
+  cd PEDA
   ```
 ## Data Download
 Due to large storage space, not all variations are stored in this link. However, they contain all variations used in the paper experiments including ablation study.
 ```
 pip install gdown
 gdown --folder COMING_SOON --output data
-mv data PEDA
-cd PEDA
 ```
 The "data" folder should be under "PEDA", with all dataset stored.
 ## Training
