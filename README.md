@@ -9,7 +9,7 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
 ## Data Download
 
 ## Training
-Open the .sh script to double-check your CUDA devices and data path. Then run:
+Open the shell script below to double-check your CUDA devices and data path. Then run:
 > sh all_env_uniform.sh
 
 ## Citation
