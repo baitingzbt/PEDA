@@ -1,5 +1,5 @@
 # PEDA
-Official Repo for [Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL](https://openreview.net/forum?id=Ki4ocDm364). Published in ICLR 2023.
+Official Repo for **Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL**. Published in ICLR 2023.
 
 [Website](https://baitingzbt.github.io/projects/iclr_2023_morl/) | [Poster](https://drive.google.com/file/d/1kiUYbYcfAdd8wLLK7x26NSYCqfWk6mGr/view) | [OpenReview](https://openreview.net/forum?id=Ki4ocDm364)
 
@@ -12,15 +12,16 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
   conda env create -f environment.yml
   conda activate peda_env
   ```
+
 ## Data Download
-Due to large storage space, not all variations are stored in this link. However, they contain all variations used in the paper experiments including ablation study.
+Due to large storage space, not all dataset variants are stored in this link. However, what's in the folder contain all dataset variants used in the paper experiments including ablation study.
 ```
 pip install gdown
 gdown --folder https://drive.google.com/drive/folders/1wfd6BwAu-hNLC9uvsI1WPEOmPpLQVT9k?usp=sharing --output data
 ```
-The "data" folder should be under "PEDA", with all dataset stored.
+The "data" folder should be under "PEDA" e.g.: `PEDA/data/env/data_name.pkl`
 ## Training
-Open the shell script below to double-check your CUDA devices and data path. Then run:
+First double-check your CUDA devices and data path in this shell script. Run the uniform experiments for all environments:
 ```
 sh all_env_uniform.sh
 ```
