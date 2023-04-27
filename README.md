@@ -1,7 +1,7 @@
 # PEDA
 Official Repo for [Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL](https://openreview.net/forum?id=Ki4ocDm364). Published in ICLR 2023.
 
-Website: [COMING SOON]().
+[Project Website](https://baitingzbt.github.io/projects/iclr_2023_morl/)
 
 Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.cs.ucla.edu/~mhdang/), [Aditya Grover](https://aditya-grover.github.io/)
 
