@@ -34,7 +34,7 @@ If you use this repo, please cite:
 ```
 @inproceedings{
     zhu2023paretoefficient,
-    title     = {Pareto-Efficient Decision Agents for Offline Multi-Objective Reinforcement Learning},
+    title     = {Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL},
     author    = {Baiting Zhu and Meihua Dang and Aditya Grover},
     booktitle = {International Conference on Learning Representations},
     year      = {2023},
