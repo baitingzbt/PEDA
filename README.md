@@ -29,6 +29,15 @@ Alternatively, here is an example for a single experiment:
 ```
 python experiment.py --dir experiment_runs/uniform --env MO-HalfCheetah-v2 --data_mode _formal --concat_state_pref 1 --concat_rtg_pref 0 --concat_act_pref 0 --mo_rtg True --seed 1 --dataset expert_uniform --model_type rvs --num_steps_per_iter 200000 --max_iters 2
 ```
+## Generate Your Own Data (WIP)
+Due to storage limit, we cannot easily open-source all data variants. Please check the source code to collect data.
+```
+cd data_generation
+sh collect_all.sh
+```
+Note 1: We use randomly-initialized environments versus a fixed version in the behavioral policy paper. This helps to diversify trajectories.
+
+Note 2: Model ckpts are stored under `PEDA/data_generation/Precomputed_Results`. All were kindly provided by the authors of behavioral policy paper, except that we trained Hopper-v3 ourselves.
 ## Citation
 If you use this repo, please cite:
 ```
