@@ -1,0 +1,10954 @@
+prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])
+hidden state:  tensor([[0.],
+        [0.],
+        [0.],
+        [0.]])
+
+
+newnewnew
+mask:  tensor([[1.],
+        [1.],
+        [1.],
+        [1.]])prediction-guided
+running iteration 0 out of 976
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
