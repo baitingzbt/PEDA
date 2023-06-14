@@ -14,7 +14,7 @@ Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.
   ```
 
 ## Data Download
-Due to large storage space, not all dataset variants are stored in this link. However, what's in the folder contain all dataset variants used in the paper experiments including ablation study.
+This folder contain all dataset variants used in the paper experiments including ablation study. All variants: check "generate your own data" section below.
 ```
 pip install gdown
 gdown --folder https://drive.google.com/drive/folders/1wfd6BwAu-hNLC9uvsI1WPEOmPpLQVT9k?usp=sharing --output data
