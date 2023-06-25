@@ -1,5 +1,4 @@
-# PEDA
-Official Repo for **Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL**. Published in ICLR 2023.
+# Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL (ICLR 2023)
 
 [Website](https://baitingzbt.github.io/projects/iclr_2023_morl/) | [Poster](https://drive.google.com/file/d/1kiUYbYcfAdd8wLLK7x26NSYCqfWk6mGr/view) | [OpenReview](https://openreview.net/forum?id=Ki4ocDm364)
 
@@ -29,16 +28,17 @@ Alternatively, here is an example for a single experiment:
 ```
 python experiment.py --dir experiment_runs/uniform --env MO-HalfCheetah-v2 --data_mode _formal --concat_state_pref 1 --concat_rtg_pref 0 --concat_act_pref 0 --mo_rtg True --seed 1 --dataset expert_uniform --model_type rvs --num_steps_per_iter 200000 --max_iters 2
 ```
+
 ## Generate Your Own Data (WIP)
-Due to storage limit, we cannot easily open-source all data variants. Please check the source code to collect data. First download ckpts from `https://drive.google.com/file/d/19kEqdNG-ttwxmZ__30gop_KRvPf4NSjL/view`. Unzip, rename to "Precomputed_Result", and move folder under `data_generation`.
+Due to storage limit, we cannot easily open-source all data variants. Please check the source code to collect data. First download ckpts from [https://drive.google.com/file/d/19kEqdNG-ttwxmZ__30gop_KRvPf4NSjL/view](https://drive.google.com/file/d/19kEqdNG-ttwxmZ__30gop_KRvPf4NSjL/view). Unzip, rename folder to `Precomputed_Result`, and move this folder under `data_generation`.
 ```
 # DOWNLOAD, UPZIP, RENAME, MOVE
 
-# USE
+# USE AFTER MANUAL SETUP
 cd data_generation
 sh collect_all.sh
 ```
-Note 1: We use randomly-initialized environments versus a fixed version in the behavioral policy paper. This helps to diversify trajectories.
+Note 1: We use randomly-initialized environments which is different from behavioral policy paper. This helps to diversify trajectories.
 
 Note 2: Model ckpts are stored under `PEDA/data_generation/Precomputed_Results`. All were kindly provided by the authors of behavioral policy paper, except that we trained Hopper-v3 ourselves.
 ## Citation
