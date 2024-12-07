@@ -30,7 +30,7 @@ python experiment.py --dir experiment_runs/uniform --env MO-HalfCheetah-v2 --dat
 ```
 
 ## Generate Your Own Data (WIP)
-Due to storage limit, we cannot easily open-source all data variants. Please check the source code to collect data. First download ckpts from [https://drive.google.com/file/d/19kEqdNG-ttwxmZ__30gop_KRvPf4NSjL/view](https://drive.google.com/file/d/19kEqdNG-ttwxmZ__30gop_KRvPf4NSjL/view). Unzip, rename folder to `Precomputed_Result`, and move this folder under `data_generation`.
+Due to storage limit, we cannot easily open-source all data variants. Please check the source code to collect data. First download ckpts from  [https://drive.google.com/file/d/1_-B0UAt57JV-Jc1aBYEasuEgmR7nouaf/view?usp=sharing](https://drive.google.com/file/d/1_-B0UAt57JV-Jc1aBYEasuEgmR7nouaf/view?usp=sharing). Unzip, rename folder to `Precomputed_Result`, and move this folder under `data_generation`.
 ```
 # DOWNLOAD, UPZIP, RENAME, MOVE
 
