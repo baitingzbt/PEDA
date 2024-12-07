@@ -2,7 +2,7 @@
 
 [Website](https://baitingzbt.github.io/projects/iclr_2023_morl/) | [Poster](https://iclr.cc/media/PosterPDFs/ICLR%202023/11257.png?t=1680814838.1065722) | [OpenReview](https://openreview.net/forum?id=Ki4ocDm364)
 
-Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](http://web.cs.ucla.edu/~mhdang/), [Aditya Grover](https://aditya-grover.github.io/)
+Authors: [Baiting Zhu](https://baitingzbt.github.io/), [Meihua Dang](https://cs.stanford.edu/~mhdang/), [Aditya Grover](https://aditya-grover.github.io/)
 
 ## Setup
   ```
